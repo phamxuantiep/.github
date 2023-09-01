@@ -2,7 +2,7 @@
 
 a ✨ special ✨ organization of `tiep.au`.
 - 🥋 official organization repository of [@phamxuantiep](https://www.github.com/phamxuantiep) 
-- 👀 This Team maintain, develop, and bought to you by tiep, Kazuma, Steve, Kyoko
+- 👀 This Team maintain, develop, and bought to you by tiep, Kazuma, Steve and Kyoko.
 - 🌱 email tiep@tiep.au
 - 💞️ Website https://tiep.au
 
